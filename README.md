@@ -12,6 +12,17 @@ A comprehensive vehicle boosting script for QBCore FiveM servers. Players can ac
 - Admin commands for giving boosts
 - Database persistence for player progress
 
+## Item
+```
+	['takenncs_tablet'] = {
+		label = 'Kahtlane Tahvel',
+		weight = 0,
+		description = 'Süsteemid ootavad?',
+		client = {
+			export = 'takenncs-boostingv2.openTablet',
+		}
+	},
+```
 
 ## SQL
 
